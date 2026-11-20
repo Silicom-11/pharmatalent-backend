@@ -213,6 +213,16 @@ const REGISTROS = [
     pruebas: 'Segunda medición: p95 total 1367 ms, 99.6 % bajo 2 s, 0 errores; bandeja p50 1501 ms y p95 2021 ms (−17 % y −10 %). Regresión completa en verde. Pendiente para la próxima revisión: precalcular la cobertura por botica, que sigue siendo lo más costoso de la bandeja.',
     archivos: ['src/routes/vacations.js', 'scripts/prueba-carga.js'],
   },
+  {
+    codigo: 'MNT-2026-024', fecha: '2026-11-20T02:20', cierre: '2026-11-20T03:30',
+    tipo: 'PREVENTIVO', origen: 'EQUIPO', prioridad: 'ALTA', area: 'seguridad', version: '1.1.1',
+    titulo: 'Preparación del código para los repositorios públicos de GitHub',
+    descripcion: 'El código del frontend y del backend se publica en dos repositorios públicos de GitHub para la entrega final; antes había que revisar que no saliera nada reservado.',
+    analisis: 'La revisión encontró la contraseña común de las cuentas de demostración escrita en ocho scripts y en la pantalla de ingreso, que además la mostraba en producción cuando el modo exposición estaba apagado. Respaldos, credenciales, claves de terminal y .env ya estaban excluidos por .gitignore.',
+    solucion: 'La contraseña se lee de CLAVE_DEMO en .env (scripts/lib/clave-demo.js) y los scripts se detienen con un mensaje claro si falta; la pista de la pantalla de ingreso sólo aparece en desarrollo. Se agregan la integración continua con GitHub Actions (pruebas unitarias, integración con MongoDB 8, análisis estático, compilación y auditoría de dependencias), el README de cada repositorio y la licencia.',
+    pruebas: 'Búsqueda de la contraseña en todo archivo publicable: 0 coincidencias. npm test 242/242, npm run test:integracion 26/26, oxlint sin errores, compilación de producción y npm audit de producción sin vulnerabilidades altas.',
+    archivos: ['scripts/lib/clave-demo.js', 'scripts/coherencia.js', 'scripts/seed.js', 'scripts/enriquecer-datos.js', 'scripts/auditoria-roles.js', 'scripts/verificar-privacidad.js', 'scripts/prueba-carga.js', 'scripts/pruebas-funcionales.js', '.github/workflows/ci.yml', 'README.md'],
+  },
 ];
 
 const etapasDe = (tipo) => require('../src/config/mantenimiento').TIPOS[tipo].etapas;
