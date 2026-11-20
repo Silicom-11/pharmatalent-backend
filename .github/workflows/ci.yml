@@ -1,0 +1,36 @@
+# Integración continua: cada push y cada pull request a main o develop corre
+# las pruebas unitarias y las de integración contra un MongoDB 8 de servicio.
+name: CI
+
+on:
+  push:
+    branches: [main, develop, 'feature/**']
+  pull_request:
+    branches: [main, develop]
+
+jobs:
+  pruebas:
+    runs-on: ubuntu-latest
+    services:
+      mongo:
+        image: mongo:8.0
+        ports: ['27017:27017']
+    env:
+      NODE_ENV: test
+      ZONA_HORARIA: America/Lima
+      MONGODB_URI: mongodb://localhost:27017/pharmatalent_pruebas_ci
+      MONGODB_URI_PRUEBAS: mongodb://localhost:27017/pharmatalent_pruebas_integracion
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Instalar dependencias
+        run: npm ci
+      - name: Pruebas unitarias
+        run: npm test
+      - name: Pruebas de integración
+        run: npm run test:integracion
+      - name: Dependencias de producción sin vulnerabilidades altas
+        run: npm audit --omit=dev --audit-level=high
