@@ -1,0 +1,15 @@
+node_modules/
+.env
+*.log
+
+# Copias de la base: contienen la planilla entera
+respaldos/
+# Credenciales temporales en claro: repartir y borrar
+credenciales-*.csv
+*.json.gz
+
+# Claves de los terminales de marcación generadas para la demostración
+terminales-*.csv
+
+# Dirección del túnel en curso (npm run tunel)
+tunel-url.txt

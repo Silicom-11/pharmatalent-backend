@@ -1,0 +1,624 @@
+{
+  "fuente": "InRetail Pharma S.A. — Cadena de Farmacias Inkafarma y Mifarma (relación oficial de locales, PDF publicado en su CMS)",
+  "url": "https://assets.contentstack.io/v3/assets/bltc73a8adddb2104d0/blt67c645bf2649a5f2/6286abbcbd980555189d678a/Cadena_de_Farmacias_Inkafarma-Mifarma.pdf",
+  "extraido": "2026-10-01",
+  "total": 77,
+  "locales": [
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 1",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Calle Real 537",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 3",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Pasaje Andaluz 106",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 4",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Jr. Santa Isabel 989",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 5",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Prolongacion Ica 173",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "La Merced",
+      "distrito": "Chanchamayo",
+      "provincia": "Chanchamayo",
+      "direccion": "Jr. Tarma 315 ( Tambien 317 y 345)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 6",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Jr. Cajamarca Nº 180",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Chupaca",
+      "distrito": "Chupaca",
+      "provincia": "Chupaca",
+      "direccion": "Jr. Bartolome Guerra 182",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Pv Huancayo",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Ferrocarril Nro 1021 Int. 3",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "La Oroya",
+      "distrito": "Santa Rosa De Sacco",
+      "provincia": "Yauli",
+      "direccion": "Block B Interior B-100 Del Agrup. Marcavalle",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Jauja",
+      "distrito": "Yauyos",
+      "provincia": "Jauja",
+      "direccion": "Av. Ricardo Palma 100",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Concepcion",
+      "distrito": "Concepcion",
+      "provincia": "Concepcion",
+      "direccion": "Jr. Nueve de Julio 191",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Tarma",
+      "distrito": "Tarma",
+      "provincia": "Tarma",
+      "direccion": "Jr Lima 639",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Tarma 2",
+      "distrito": "Tarma",
+      "provincia": "Tarma",
+      "direccion": "Jr. Ayacucho Nro. 200 (Con Jr. Asuncion N.101-105)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "San Ramon",
+      "distrito": "San Ramon",
+      "provincia": "Chanchamayo",
+      "direccion": "Jr. Progreso Nro. 371 Urb. San Ramon",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 10",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Mariscal Castilla Nro. 4329 (Mza. 36 Lote 9 Sector C)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Satipo",
+      "distrito": "Satipo",
+      "provincia": "Satipo",
+      "direccion": "Jr. Manuel Prado Nro 212",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 8",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Independencia 600, Mz Ñ, Lt 4",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Jauja 2",
+      "distrito": "Jauja",
+      "provincia": "Jauja",
+      "direccion": "Jr Junin Nro. 918 (Sector J-4)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 9",
+      "distrito": "Chilca",
+      "provincia": "Huancayo",
+      "direccion": "Av. 9 De Diciembre Nro. 810 (812)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Pichanaqui",
+      "distrito": "Pichanaqui",
+      "provincia": "Chanchamayo",
+      "direccion": "Jr. Lima Nro. 675 (Mza. Z Lote 08)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 11",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Mariscal Castilla Nro. 1998",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 12",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Jr. Huancas Nro. 1204",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 13",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Daniel Alcides Carrion Nro. 1123 Int. A",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Chupaca 2",
+      "distrito": "Chupaca",
+      "provincia": "Chupaca",
+      "direccion": "Jr. Miguel Grau Nro. 414",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 14",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Cal. Real Nro. 972",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 15",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Jr. Ancash Nro. 583 (587)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 16",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Jr. Huancas 795 - Nro. 797",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 18",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Huancavelica Nro. 398 (Cercado El Tambo)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 17",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Daniel Alcides Carrion Nro. 1581",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 19",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Las Colinas Nro. 399 Urb. Pio Pata",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Concepcion 2",
+      "distrito": "Concepcion",
+      "provincia": "Concepcion",
+      "direccion": "R. Bolivar Nro. 394 Junin",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 20",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Calle Real 960 - 962",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 22",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Mariscal Castilla Nro. 2692 (2692-2694)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Real Plaza Huancayo",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Ferrocarril Nro. 1035 Int. Ref. (Int. Lc-106 - Sector 14)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 23",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Jr. Huanuco Nro. 199 (Y Jr. Mantaro Nro 821)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 24",
+      "distrito": "Sapallanga",
+      "provincia": "Huancayo",
+      "direccion": "Av. Fidel Miranda Nro. 1237",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "San Martin de Pangoa",
+      "distrito": "Pangoa",
+      "provincia": "Satipo",
+      "direccion": "Cal.ucayali Mza. 20 Lote. Mn-5 (Cdo.san Martin De Pangoa Secc.001 Y 002)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 25",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Cal. Real Nro. 1199",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 26",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Martires Del Periodismo Nro. 1981",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 27",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Huancavelica Nro. 729",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Perene",
+      "distrito": "Perene",
+      "provincia": "Chanchamayo",
+      "direccion": "Av. Marginal Mza. N Lote. 1 (Cercado Santa Ana)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Open Plaza Huancayo",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Ferrocarril 146 Nro. 150 Int. Lc23 (Con Prolongacion San Carlos 136)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Junin",
+      "distrito": "Junin",
+      "provincia": "Junin",
+      "direccion": "Jr. Simon Bolivar Este Nro. 401",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Huancayo 28",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Cal. Real Nro. 393",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "INKAFARMA",
+      "nombre": "Pv El Tambo",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Calle real 930 int-01 -El Tambo",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo 1",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Calle Real No.745 Sector 17",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo 2",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Pasaje Andaluz 105",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Chanchamayo",
+      "distrito": "Chanchamayo",
+      "provincia": "Chanchamayo",
+      "direccion": "Jr. Junin 690",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo El Tambo",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Huancavelica Nro. 2001 Urb. Los Andes",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo 5",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Jr. Cajamarca 260 ( Primer Piso)y Jr Cajamarca 254(Mezzanine)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo 1f",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Calle Real Nº 703-711",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo Real",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Calle Real Nº 552 - 554",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo El Tambo 2",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Calle Real N° 989",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo 1b",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Calle Real 565",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo Independencia",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Independencia 329 El Tambo",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo Metro",
+      "distrito": "Chilca",
+      "provincia": "Huancayo",
+      "direccion": "Av. 9 De Diciembre Nro. 517 (T. Metro Loc 1019)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "La Oroya 1",
+      "distrito": "Santa Rosa De Sacco",
+      "provincia": "Yauli",
+      "direccion": "Av. Miguel Grau Nro. 1384 - Santa Rosa De Sacco",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo Lorente",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Jr. Sebastian Lorente 310",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Tarma Amazonas",
+      "distrito": "Tarma",
+      "provincia": "Tarma",
+      "direccion": "Jr. Amazonas Nº 418",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Tarma Lima",
+      "distrito": "Tarma",
+      "provincia": "Tarma",
+      "direccion": "Jr. Lima Nº 615",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo Pachite",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Prol. Pachite N° 115",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo-Chilca",
+      "distrito": "Chilca",
+      "provincia": "Huancayo",
+      "direccion": "Av. 9 De Diciembre Nº 800",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Junin Concepcion",
+      "distrito": "Concepcion",
+      "provincia": "Concepcion",
+      "direccion": "Jr. 9 De Julio Nº 200",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Chanchanayo La Merced",
+      "distrito": "Chanchamayo",
+      "provincia": "Chanchamayo",
+      "direccion": "Jr. Junin Nº 614 La Merced",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Junin Chupaca",
+      "distrito": "Chupaca",
+      "provincia": "Chupaca",
+      "direccion": "Jr. Grau Nº 306",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Jauja R Palma",
+      "distrito": "Jauja",
+      "provincia": "Jauja",
+      "direccion": "Av. Ricardo Palma Nº 101",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Chanchamayo Pichanaki 1",
+      "distrito": "Pichanaqui",
+      "provincia": "Chanchamayo",
+      "direccion": "Av. Micaela Bastidas # 303",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Satipo Prado",
+      "distrito": "Satipo",
+      "provincia": "Satipo",
+      "direccion": "Calle Manuel Prado Nº 234",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo Real 7",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Calle Real 398 Esq Jr Puno 494",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Junin Progreso",
+      "distrito": "San Ramon",
+      "provincia": "Chanchamayo",
+      "direccion": "Jr. Progreso 399",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo Castilla",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Av.Mariscal Castilla N° 4315",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Chanchamayo Pichanaki 2",
+      "distrito": "Pichanaqui",
+      "provincia": "Chanchamayo",
+      "direccion": "Av. 24 De Setiembre 825 -pichanaki",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Satipo Leguia",
+      "distrito": "Satipo",
+      "provincia": "Satipo",
+      "direccion": "Augusto B. Leguia N° 504",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo Carrion",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Daniel Alcides Carrion N° 1549 ( Frente Al Hospital Daniel Alcides Carrion)",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo Huancavelica",
+      "distrito": "El Tambo",
+      "provincia": "Huancayo",
+      "direccion": "Av. Huancavelica N° 1301",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo Urb Los Jardines",
+      "distrito": "Huancayo",
+      "provincia": "Huancayo",
+      "direccion": "Urb. Los Jardines Av. Mártires Del Periodismo Nº 1201 Esquina Con Jr. Santa Beatriz Nº 103",
+      "departamento": "Junín"
+    },
+    {
+      "marca": "MIFARMA",
+      "nombre": "Huancayo Huayucachi",
+      "distrito": "Huayucachi",
+      "provincia": "Huancayo",
+      "direccion": "Calle Real Nº 306",
+      "departamento": "Junín"
+    }
+  ]
+}
